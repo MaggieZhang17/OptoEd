@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+layout: default 
 
-You can use the [editor on GitHub](https://github.com/MaggieZhang17/OptoEd/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to OptoEd
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###### The software is developde by [Maggie Zhang](https://github.com/MaggieZhang17). The individual research project is supervised by Dr. Edmund Harbord.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+OptoEd is an educational tool to aid teaching of unit: EENG30004 Optoelectronic Devices and Systems at the Universiy of Bristol. OptoEd is a programme developed on Matlab GUI.
 
-```markdown
-Syntax highlighted code block
+The graphical interface of OptoEd allows to show active optoelectronics behaviours through plotting graphs. The purpose of OptoEd is to provide a tool to help students comprehend optoelectronic knowledge from user-interaction and visualization. 
 
-# Header 1
-## Header 2
-### Header 3
+OptoEd is fully implemented in the Matlab software environment of MathWorks under Windows operating system. GUIDE (Graphical User Interface Development Environment) was used to create a friendly Graphical User Interface (GUI). The application was developed to serve student users who enrolled the EENG30004 unit for educational purposes, although anyone who has interests in active optoelctronic devices are welcomed. 
 
-- Bulleted
-- List
+A detailed description of the OptoEd program can be found in the thesis: OptoEd - Pedagogical MATLAB Graphical User Interface (GUI) Program for EENG30004 Optoelectronic Devices and Systems. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaggieZhang17/OptoEd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
