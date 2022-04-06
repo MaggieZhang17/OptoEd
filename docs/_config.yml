@@ -3,5 +3,4 @@ show_downloads: true
 layout: default
 github:
   zip1_url: https://MaggieZhang17.github.io/OptoEd/ph-pages/GUI3.zip
-  zip2_url: https://github.com/MaggieZhang17/OptoEd/tarball/gh-pages/GUI3.zip
-  
+  zip2_url: https://MaggieZhang17.github.io/OptoEd/ph-pages/GUI3.zip
