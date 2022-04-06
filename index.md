@@ -1,4 +1,4 @@
-layout: default
+
 
 ## Welcome to OptoEd
 
